@@ -1,0 +1,3 @@
+a1d792b4791ea88f734ed5b1afbadf97
+
+api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=a1d792b4791ea88f734ed5b1afbadf97
